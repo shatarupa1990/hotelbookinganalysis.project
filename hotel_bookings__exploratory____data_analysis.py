@@ -43,7 +43,7 @@ In conclusion, this exploratory data analysis of the hotel booking dataset offer
 
 # **GitHub Link -**
 
-Provide your GitHub Link here.
+https://github.com/shatarupa1990/hotelbookinganalysis.project
 
 # **Problem Statement**
 
@@ -1131,5 +1131,5 @@ By implementing these suggestions, the client can enhance customer satisfaction,
 
 And many more conclusions.
 
-### ***Hurrah! You have successfully completed your EDA Capstone Project !!!***
+### ***Hurrah! I have successfully completed your EDA Capstone Project !!!***
 """
