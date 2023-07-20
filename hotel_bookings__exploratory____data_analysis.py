@@ -1066,7 +1066,7 @@ corrmat
 f, ax = plt.subplots(figsize=(12, 7))
 sns.heatmap(corrmat,annot = True,fmt='.2f', annot_kws={'size': 10}, vmax=.8,  square=True);
 
-"""--> Total stay length and lead time have slight correlation. This may means that for longer hotel stays people generally plan little before the the actual arrival.
+"""--> Total stay length and lead time have slight correlation. This may means that for longer hotel stays people generally plan little before the actual arrival.
 
 --> adr is slightly correlated with total_people, which makes sense as more no. of people means more revenue, therefore more adr.
 
