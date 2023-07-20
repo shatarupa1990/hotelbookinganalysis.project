@@ -816,7 +816,7 @@ Also, lead time has no affect on cancellation of bookings, as both curves of can
 
 #### Chart - 17
 
---> Now we will check whether not getting allotted the same room type as demanded is the cause of cancellation fo bookings
+--> Now we will check whether not getting allotted the same room type as demanded is the cause of cancellation of bookings
 """
 
 def check_room_allot(x):
