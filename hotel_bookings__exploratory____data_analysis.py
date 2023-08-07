@@ -9,9 +9,7 @@ Original file is located at
 # **Project Name**: **Hotel Bookings Exploratory Data Analysis-**
 
 ##### **Project Type**    - EDA
-##### **Contribution**    - Team
-##### **Team Member 1 -** Shatarupa Mishra
-##### **Team Member 2 -** Mahboob Alam Khan
+##### **Project by -** Shatarupa Mishra
 
 # **Project Summary -**
 
